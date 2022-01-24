@@ -18,7 +18,7 @@ console.log("____________________________________")
 
 // Utilize um método para adicionar dois nomes ao fim do array.
 
-nomes.splice(6,0,"Camilly", "Ester")
+nomes.push("Camilly", "Ester")
 
 console.log(nomes)
 
